@@ -1,0 +1,102 @@
+[
+  {
+    "name": "MiniProject Chat App",
+    "desc": "A React Native chat app with multilingual translation and Firebase integration.",
+    "icon": "fas fa-comments",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Adharshms/miniproject",
+      "code": "https://github.com/Adharshms/miniproject"
+    }
+  },
+  {
+    "name": "Gemini Clone",
+    "desc": "Responsive Gemini AI web clone built using React and TailwindCSS.",
+    "icon": "fas fa-robot",
+    "category": "mern",
+    "links": {
+      "view": "https://gemini-clone-adharsh.vercel.app/",
+      "code": "https://github.com/Adharshms/Gemini-clone"
+    }
+  },
+  {
+    "name": "Preset Shop",
+    "desc": "E-commerce site where creators sell Instagram and Lightroom presets.",
+    "icon": "fas fa-shopping-bag",
+    "category": "basicweb",
+    "links": {
+      "view": "https://presetshop.vercel.app/",
+      "code": "https://github.com/Adharshms/presetshop"
+    }
+  },
+  {
+    "name": "Random Color Generator",
+    "desc": "A web app that generates random color palettes for design inspiration.",
+    "icon": "fas fa-palette",
+    "category": "basicweb",
+    "links": {
+      "view": "https://random-color-generator-adharsh.vercel.app/",
+      "code": "https://github.com/Adharshms/random-color-generator"
+    }
+  },
+  {
+    "name": "Rock Paper Scissors Game",
+    "desc": "Fun browser-based rock-paper-scissors game.",
+    "icon": "fas fa-hand-rock",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rockpapersicissorgame.vercel.app/",
+      "code": "https://github.com/Adharshms/rockpapersicissorgame"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website showcasing skills, experience, and projects.",
+    "icon": "fas fa-laptop-code",
+    "category": "basicweb",
+    "links": {
+      "view": "https://adharshms.vercel.app/",
+      "code": "https://github.com/Adharshms/portfolio"
+    }
+  },
+  {
+    "name": "Instashop",
+    "desc": "A web app for Instagram sellers to create and manage product stores.",
+    "icon": "fas fa-store",
+    "category": "mern",
+    "links": {
+      "view": "https://instashop.vercel.app/",
+      "code": "https://github.com/Adharshms/instashop"
+    }
+  },
+  {
+    "name": "CRM Dashboard",
+    "desc": "React-based CRM dashboard with login, authentication, product management, and graphs.",
+    "icon": "fas fa-chart-line",
+    "category": "mern",
+    "links": {
+      "view": "https://crm-dashboard-adharsh.vercel.app/",
+      "code": "https://github.com/Adharshms/crm-dashboard"
+    }
+  },
+  {
+    "name": "Pizza Website",
+    "desc": "Playful and modern pizza ordering website with sleek UI.",
+    "icon": "fas fa-pizza-slice",
+    "category": "basicweb",
+    "links": {
+      "view": "https://pizza-website-adharsh.vercel.app/",
+      "code": "https://github.com/Adharshms/pizza-website"
+    }
+  },
+  {
+    "name": "AI Content Generator",
+    "desc": "Web app that generates captions, bios, and essays using AI API.",
+    "icon": "fas fa-brain",
+    "category": "mern",
+    "links": {
+      "view": "https://ai-content-generator.vercel.app/",
+      "code": "https://github.com/Adharshms/ai-content-generator"
+    }
+  }
+]
